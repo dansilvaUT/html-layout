@@ -1,0 +1,63 @@
+body {
+    padding: 50px;
+    margin: 0;
+}
+
+#first {
+    width: 100%;
+    border: 3px solid black;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+#tall {
+    height: 70px;
+    width: 40px;
+    background-color: purple;
+    display: inline-block;
+}
+
+#tall2 {
+    height: 100px;
+    width: 180px;
+    background-color: green;
+    display: inline-block;
+    margin: 0 10px;
+}
+
+#circle {
+    border-radius: 100%;
+    height: 100px;
+    width: 100px;
+    background-color: cyan;
+    display: inline-block;
+}
+
+#second {
+    width: 100%;
+    height: auto;
+    display: inline-block;
+    border: 5px dotted black;
+    box-sizing: border-box;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+#longRectangle {
+    width: 100%;
+    height: 100px;
+    margin: 0 auto;
+    background-color: darkgoldenrod;
+}
+
+#third {
+    width: 30%;
+    border: 1.5px solid gray;
+    margin: 0 auto;
+}
+
+#theHeader {
+    text-align: center;
+    color: lightpink;
+    padding: 50px;
+}
