@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    background-color: grey;
+    width: 100%;
+    height: 100vh;
+}
+
+#theHeader {
+    background-color: #525050;
+    width: 100%;
+    height: 30vh;
+}
+
+#theSection {
+    background-color: white;
+    margin: 0 auto;
+    width: 50%;
+    height: 700px;
+    
+}
+
+#theFooter {
+    background-color: black;
+    height: 60px;
+    width: 50%;
+    margin: 0 auto;
+}
